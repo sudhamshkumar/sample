@@ -1,0 +1,7 @@
+com\sai\kafkaclient\MessageException.class
+com\sai\kafkaclient\producer\impl\MessageProducerImpl.class
+com\sai\kafkaclient\producer\ProducerResponse.class
+com\sai\kafkaclient\producer\MessageProducerFactory.class
+com\sai\kafkaclient\producer\MessageProducerLifeCycle.class
+com\sai\kafkaclient\producer\MessageProducer.class
+com\sai\kafkaclient\producer\ProducerResponseFuture.class
